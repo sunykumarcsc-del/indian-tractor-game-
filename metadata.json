@@ -1,0 +1,6 @@
+{
+  "name": "Indian Village Life Simulator 3D",
+  "description": "An open-world 3D Indian driving simulator featuring tractors, trucks, SUVs, village fields, city highways, toll plaza, and missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
